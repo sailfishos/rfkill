@@ -3,7 +3,6 @@ Name:       rfkill
 Summary:    rfkill utility
 Version:    0.5
 Release:    1
-Group:      System Environment/Base
 License:    ISC
 URL:        https://github.com/sailfishos/rfkill
 Source0:    %{name}-%{version}.tar.gz
@@ -13,7 +12,6 @@ rfkill is a tool to use /dev/rfkill.
 
 %package doc
 Summary:    Documentation for rfkill
-Group:      Documentation
 Requires:   %{name} = %{version}-%{release}
 Requires:   %{name} = %{version}
 
