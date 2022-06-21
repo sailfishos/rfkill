@@ -5,7 +5,7 @@ Version:    0.5
 Release:    1
 Group:      System Environment/Base
 License:    ISC
-URL:        http://wireless.kernel.org/en/users/Documentation/rfkill
+URL:        https://github.com/sailfishos/rfkill
 Source0:    %{name}-%{version}.tar.gz
 
 %description
