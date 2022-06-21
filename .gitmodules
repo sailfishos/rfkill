@@ -1,3 +1,3 @@
 [submodule "rfkill"]
 	path = rfkill
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/jberg/rfkill.git
+	url = https://github.com/sailfishos-mirror/rfkill.git
